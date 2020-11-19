@@ -217,6 +217,50 @@ textarea {
 
 /* end contact-form */
 
+/* foooter */
+footer{
+  height:500px;
+}
+
+hr{
+  border: 1px solid #BDBDBD ;
+}
+
+#footer p {
+  float:left;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: #4F4F4F;
+  margin-left: 30px;
+  padding-top: 50px;
+}
+
+#footer li{
+  list-style: none;
+}
+
+#footer .us{
+  font-size: 28px;
+  line-height: 48px;
+  color: #333333;
+  padding-top: 28px;
+}
+
+#footer .number{
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-align: center;
+  color: #4F4F4F;
+}
+
+#footer .contact{
+  float: right;
+}
+/* end-footer */
+
+
 /* media queri (responsive) */
 @media (max-width: 1000px) {
   .flex {
